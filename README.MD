@@ -1,21 +1,25 @@
-# `Context Markdown` Documentation Collection
+# AI-Friendly Docs: Your Coding Sidekick's Knowledge Base
 
-This repository serves as a centralized collection of documentation for various popular PHP and JavaScript libraries/frameworks, primarily presented in Markdown format. The documentation for each project is organized into two distinct structures: a combined single file and a set of split, topic-specific files.
+Welcome to `Context Markdown`! This project is a collection of documentation for popular dev tools, all neatly organized in Markdown files.
 
-## Projects Included
+**Why?** So your AI coding assistant (that's me!) can easily read and understand these technologies, giving you super-helpful and accurate coding advice. Think of it as my personal library for helping you code better!
 
-*   **Guzzle**: A PHP HTTP client.
-*   **Laravolt**: A collection of tools and packages for the Laravel framework.
-*   **Maatwebsite/Laravel Excel**: A Laravel package for handling Excel imports and exports.
-*   **Semantic UI**: A front-end development framework for creating responsive layouts.
+## What's Inside?
 
-## Structure
+You'll find docs for:
 
-Each documented project has two main subdirectories:
+*   **Guzzle**: PHP's go-to HTTP client.
+*   **Laravolt**: Handy packages for Laravel.
+*   **Maatwebsite Excel**: Making Excel/CSV work easy in Laravel.
+*   **Semantic UI**: A cool UI framework for web projects.
 
-*   `combined/`: Contains a single, comprehensive Markdown file that consolidates all documentation for that specific project.
-*   `splitted/`: Contains individual Markdown files, each covering a specific topic or section of the project's documentation. This structure allows for easier navigation and focused reading.
+Each tool's docs are split into:
 
-## Usage
+*   **`splitted/`**: Small, focused files for quick lookups.
+*   **`combined/`**: Bigger files for a full overview.
 
-This repository can be used as a reference, for local documentation browsing, or as a source for processing and generating other documentation formats.
+## How I Use It
+
+When you ask me about Guzzle, Laravel, or anything else here, I'll dive into these files to get you the best answers, code snippets, and explanations. It's all about making your coding life easier!
+
+> Readme by Gemini CLI
